@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brain Trainer Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_the_game">Start The Game</string>
+    <string name="lets_go">Lets go</string>
+    <string name="_btn0">3</string>
+    <string name="_btn1">3</string>
+    <string name="_btn2">3</string>
+    <string name="_btn3">3</string>
+    <string name="message">Congratulations:</string>
+    <string name="_time">30</string>
+    <string name="_score">0/0</string>
+    <string name="_Add">4+4</string>
+    <string name="play_again">Play Again</string>
+</resources>
